@@ -1,0 +1,2 @@
+# API-Testing--Spreadsheet-Driven-API-Form-Data-Updates-with-Postman
+A demonstration project showing how to update API form-data directly from a spreadsheet (CSV/XLSX) without requiring record IDs. This approach leverages Postman, Node.js, and Python to automate data-driven API updates, making it ideal for QA engineers and backend developers who want to streamline workflows and reduce manual effort.
